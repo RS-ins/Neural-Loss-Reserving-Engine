@@ -1,0 +1,24 @@
+# Core
+python>=3.10
+ 
+# Data
+pandas>=2.0
+numpy>=1.24
+ 
+# Deep Learning
+torch>=2.0
+torchvision>=0.15
+ 
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.12
+ 
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.0
+ 
+# Utilities
+scikit-learn>=1.3
+scipy>=1.11
+tqdm>=4.65
+ 
