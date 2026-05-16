@@ -57,6 +57,8 @@ neural-reserving/
 │   └── 04_transformer.ipynb     # (stretch)
 │
 ├── requirements.txt
+├── LICENSE
+├── gitignore
 └── README.md
 ```
 
