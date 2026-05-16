@@ -17,9 +17,6 @@ env/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data — do not commit raw CSVs (too large, publicly available)
-data/cas_schedule_p/raw/
-
 # Model checkpoints (can be large)
 models/checkpoints/
 *.pt
